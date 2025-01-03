@@ -51,7 +51,7 @@ if(review.id ===oldID){
   return {id :oldID ,text:newText,rating:newrating}
 }
 else{
-  feedback
+  feedback;
 }
     }))
     // setReview(reviews.map((review)=> 
